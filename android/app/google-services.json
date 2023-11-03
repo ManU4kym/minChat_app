@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664231955087",
+    "project_id": "chartatoullie",
+    "storage_bucket": "chartatoullie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664231955087:android:beb58e60116ced49077efa",
+        "android_client_info": {
+          "package_name": "com.example.minchat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGog2FmtVP6RwkG2EVr0996GC5VpSk8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
